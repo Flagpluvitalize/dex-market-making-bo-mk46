@@ -1,4 +1,4 @@
-# 
+# automatic dex market making bot Plugin | staking-integration + rug-pull-detection offers the most advanced dex market making bot, with staking-integration and rug-pull-detection.
 
 
 
